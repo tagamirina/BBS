@@ -1,6 +1,7 @@
 # BBS
 
-Best-Buddies Similarity for Robust Template Matching　
+# Best-Buddies Similarity for Robust Template Matching
+
 Paper https://openaccess.thecvf.com/content_cvpr_2015/html/Dekel_Best-Buddies_Similarity_for_2015_CVPR_paper.html
 
 @inproceedings{dekel2015best,
@@ -11,7 +12,7 @@ Paper https://openaccess.thecvf.com/content_cvpr_2015/html/Dekel_Best-Buddies_Si
   year={2015}
 }
 
-Reference　https://hackmd.io/@9l14wdqkRCOZxPUIepMsQg/Hy0IJLTDD
+Reference Cite　https://hackmd.io/@9l14wdqkRCOZxPUIepMsQg/Hy0IJLTDD
 
 
 
