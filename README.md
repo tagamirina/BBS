@@ -20,7 +20,7 @@ Reference Cite　https://hackmd.io/@9l14wdqkRCOZxPUIepMsQg/Hy0IJLTDD
 
 
 
-Matching Result(outputIMG)
+Matching Result (outputIMG)
 ![BBS/outputIMG/output51.png](https://github.com/tagamirina/BBS/blob/main/outputIMG/output51.png)
 ![BBS/outputIMG/output59.png](https://github.com/tagamirina/BBS/blob/main/outputIMG/output59.png)
 ![BBS/output3.png](https://github.com/tagamirina/BBS/blob/main/output3.png)
