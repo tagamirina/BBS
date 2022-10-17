@@ -12,5 +12,5 @@ Best-Buddies Similarity for Robust Template Matching　https://openaccess.thecvf
 
 reference　https://hackmd.io/@9l14wdqkRCOZxPUIepMsQg/Hy0IJLTDD
 
-![image51](BBS/outputIMG/output51.png)
-![image59](BBS/outputIMG/output59.png)
+![BBS/outputIMG/output51.png](https://github.com/tagamirina/BBS/blob/main/outputIMG/output51.png)
+![BBS/outputIMG/output59.png](https://github.com/tagamirina/BBS/blob/main/outputIMG/output59.png)
